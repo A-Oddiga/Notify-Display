@@ -7,3 +7,5 @@ Plum
 Kiwi
 Peach
 Cereal
+Cucumbers
+Raddishes
